@@ -1,7 +1,7 @@
 # diagram
 
 ```mermaid
-graph TD
+graph Example
   Alice -> Bob: Authentication Request
   Bob --> Alice: Authentication Response
 
