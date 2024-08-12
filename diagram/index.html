@@ -254,11 +254,12 @@
 
 
 <h1 id="diagram">Diagram</h1>
-<pre><code class="language-plantuml">Alice -&gt; Bob: Authentication Request
+<pre><code class="language-mermaid">sequenceDiagram
+Alice -&gt; Bob: Authentication Request
 Bob --&gt; Alice: Authentication Response
 
 Alice -&gt; Bob: Another authentication Request
-Alice &lt;-- Bob: Another authentication Response
+Bob --&gt; Alice: Another authentication Response
 </code></pre>
 
 
