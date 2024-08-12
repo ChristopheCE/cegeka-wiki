@@ -17,3 +17,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
         
 Check out this link to see a [garbage collection calendar](afvalkalender.md).
+
+Check out this link to see a [PlantUML diagram](diagram.md).
