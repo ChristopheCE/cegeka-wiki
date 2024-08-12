@@ -21,7 +21,7 @@ docs/
 
 Check out this link to see a [garbage collection calendar](./).
 
-Check out this link to see a [PlantUML diagram](../).
+Check out this link to see a [PlantUML diagram](<../README (1).md>).
 
 Check out this [snippet](snippet.md).
 

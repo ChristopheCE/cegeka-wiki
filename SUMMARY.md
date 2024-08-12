@@ -1,12 +1,10 @@
 # Table of contents
 
+* [Landing](README.md)
+
 ## Wiki testing
 
-* [diagram](README.md)
+* [diagram](<README (1).md>)
 * [snippet](wiki-testing/snippet.md)
-* [testing](wiki-testing/testing.md)
 * [afvalkalender](wiki-testing/readme.md)
-
-***
-
-* [Landing](landing.md)
+* [testing](wiki-testing/testing.md)
