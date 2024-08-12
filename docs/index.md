@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# index
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
@@ -19,7 +19,7 @@ docs/
     
 ```
 
-Check out this link to see a [garbage collection calendar](afvalkalender.md).
+Check out this link to see a [garbage collection calendar](../).
 
 Check out this link to see a [PlantUML diagram](diagram.md).
 

@@ -50,4 +50,4 @@ OPENINGSUREN RECYCLAGEPARK HOOGVELD DI - VR 13 u. - 18.30 u. ZA 8.30 u. - 13.30 
 
 Bijkomende sluitingsdagen: 12.03, 30.04, 02.11, 24.12, 31.12 OPGELET! Gesloten op zondag, maandag en wettelijke feestdagen.
 
-<figure><img src="docs/figures/0" alt=""><figcaption></figcaption></figure>
+<figure><img src="docs/docs/figures/0" alt=""><figcaption></figcaption></figure>
