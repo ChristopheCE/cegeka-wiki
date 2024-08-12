@@ -1,20 +1,26 @@
-# Project Title
+# Welcome to MkDocs
 
-A brief description of what this project does and who it's for.
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Table of Contents
+## Commands
 
-- Installation
-- Usage
-- Contributing
-- License
-- Contact
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-## Installation
+## Project layout
 
-Instructions on how to install and set up the project.
+```
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+    
+```
 
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
+Check out this link to see a [garbage collection calendar](afvalkalender.md).
+
+Check out this link to see a [PlantUML diagram](diagram.md).
+
+Check out this [snippet](snippet.md).
