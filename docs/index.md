@@ -11,11 +11,14 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-        
-Check out this link to see a [garbage collection calendar](afvalkalender.md).
+```
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+    
+```
+
+Check out this link to see a [garbage collection calendar](../).
 
 Check out this link to see a [PlantUML diagram](diagram.md).
