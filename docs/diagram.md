@@ -1,12 +1,11 @@
 # diagram
 
 ```mermaid
-graph Example
-  Alice -> Bob: Authentication Request
-  Bob --> Alice: Authentication Response
-
-  Alice -> Bob: Another authentication Request
-  Bob --> Alice: Another authentication Response
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
 ```
 
 ```mermaid
