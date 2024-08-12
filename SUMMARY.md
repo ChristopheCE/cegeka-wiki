@@ -1,6 +1,6 @@
 # Table of contents
 
-* [afvalkalender](README.md)
-* [Diagram](docs/diagram.md)
-* [Welcome to MkDocs](docs/index.md)
-* [GitBook](gitbook.md)
+* [afvalkalender](docs/afvalkalender.md)
+* [diagram](docs/diagram.md)
+* [index](docs/index.md)
+* [snippet](docs/snippet.md)
